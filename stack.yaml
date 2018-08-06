@@ -1,0 +1,5 @@
+extra-deps:
+- ../GPipe-Core/GPipe-Core
+- ../GPipe-GLFW/GPipe-GLFW
+resolver: lts-12.4
+allow-newer: true

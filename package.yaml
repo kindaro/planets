@@ -1,0 +1,10 @@
+ghc-options:
+- -Wall
+- -threaded
+dependencies:
+- base
+- GPipe
+- GPipe-GLFW
+- linear
+executable:
+    main: Main.hs
